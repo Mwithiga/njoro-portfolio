@@ -11,6 +11,7 @@ exports.components = {
   "component---src-pages-blog-js": hot(preferDefault(require("/Users/jamesnjoroge/Projects/reactJS/portfolio/njoro-portfolio/src/pages/blog.js"))),
   "component---src-pages-contact-js": hot(preferDefault(require("/Users/jamesnjoroge/Projects/reactJS/portfolio/njoro-portfolio/src/pages/contact.js"))),
   "component---src-pages-index-js": hot(preferDefault(require("/Users/jamesnjoroge/Projects/reactJS/portfolio/njoro-portfolio/src/pages/index.js"))),
-  "component---src-pages-projects-js": hot(preferDefault(require("/Users/jamesnjoroge/Projects/reactJS/portfolio/njoro-portfolio/src/pages/projects.js")))
+  "component---src-pages-projects-js": hot(preferDefault(require("/Users/jamesnjoroge/Projects/reactJS/portfolio/njoro-portfolio/src/pages/projects.js"))),
+  "component---src-templates-blog-template-js": hot(preferDefault(require("/Users/jamesnjoroge/Projects/reactJS/portfolio/njoro-portfolio/src/templates/blog-template.js")))
 }
 
